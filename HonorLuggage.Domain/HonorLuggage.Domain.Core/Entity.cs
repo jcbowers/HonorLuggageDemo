@@ -1,4 +1,4 @@
-﻿namespace HonorLuggage.Domain.Core
+﻿namespace HonorsLuggage.Domain.Core
 {
     public abstract class Entity
     {

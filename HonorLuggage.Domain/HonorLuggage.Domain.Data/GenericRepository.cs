@@ -1,8 +1,8 @@
-﻿using HonorLuggage.Domain.Core;
-using HonorLuggage.Domain.Services.Repositories;
+﻿using HonorsLuggage.Domain.Core;
+using HonorsLuggage.Domain.Services.Repositories;
 using System.Collections.Generic;
 
-namespace HonorLuggage.Domain.Data
+namespace HonorsLuggage.Domain.Data
 {
     public class GenericRepository<T> : IRepository<T> where T : Entity
     {

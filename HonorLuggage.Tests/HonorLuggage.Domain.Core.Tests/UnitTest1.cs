@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace HonorLuggage.Domain.Core.Tests
+namespace HonorsLuggage.Domain.Core.Tests
 {
     [TestClass]
     public class UnitTest1

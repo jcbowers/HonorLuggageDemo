@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HonorLuggage.Domain.Core.Customer
+namespace HonorsLuggage.Domain.Core.Customer
 {
     class CreditHold : CustomerState
     {

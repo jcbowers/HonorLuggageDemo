@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HonorLuggage.Domain.Services.UseCases
+namespace HonorsLuggage.Domain.Services.UseCases
 {
     public class ConfirmRegistration
     {

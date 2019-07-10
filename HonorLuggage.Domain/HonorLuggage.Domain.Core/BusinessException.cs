@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace HonorLuggage.Domain.Core
+namespace HonorsLuggage.Domain.Core
 {
     public class BusinessException : Exception
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HonorLuggage.Domain.Core.Customer
+namespace HonorsLuggage.Domain.Core.Customer
 {
     public class Customer : Entity
     {

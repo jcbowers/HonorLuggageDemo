@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorLuggage.Domain", "HonorLuggage.Domain", "{09DCD17A-5BD2-4157-BBB9-CE583E8AFFE1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorsLuggage.Domain", "HonorsLuggage.Domain", "{09DCD17A-5BD2-4157-BBB9-CE583E8AFFE1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorLuggage.Domain.Core", "HonorLuggage.Domain\HonorLuggage.Domain.Core\HonorLuggage.Domain.Core.csproj", "{71BAD32D-EBEA-496B-90B0-F383E75A858D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorsLuggage.Domain.Core", "HonorLuggage.Domain\HonorLuggage.Domain.Core\HonorsLuggage.Domain.Core.csproj", "{71BAD32D-EBEA-496B-90B0-F383E75A858D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorLuggage.Domain.Data", "HonorLuggage.Domain\HonorLuggage.Domain.Data\HonorLuggage.Domain.Data.csproj", "{21309907-E76A-413E-B635-8B914CA2C7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorsLuggage.Domain.Data", "HonorLuggage.Domain\HonorLuggage.Domain.Data\HonorsLuggage.Domain.Data.csproj", "{21309907-E76A-413E-B635-8B914CA2C7D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorLuggage.Presentation", "HonorLuggage.Presentation", "{BD7AF3CF-E33B-4AA9-B8A6-673EB2EAE49C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorsLuggage.Presentation", "HonorsLuggage.Presentation", "{BD7AF3CF-E33B-4AA9-B8A6-673EB2EAE49C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorLuggage.Web", "HonorLuggage.Presentation\HonorLuggage.Web\HonorLuggage.Web.csproj", "{2BCD3015-C93E-4584-887B-8791B9AD8E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorsLuggage.Web", "HonorLuggage.Presentation\HonorLuggage.Web\HonorsLuggage.Web.csproj", "{2BCD3015-C93E-4584-887B-8791B9AD8E70}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorLuggage.Tests", "HonorLuggage.Tests", "{836CB24D-E0BC-4792-A959-F294887B5902}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HonorsLuggage.Tests", "HonorsLuggage.Tests", "{836CB24D-E0BC-4792-A959-F294887B5902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HonorLuggage.Domain.Services", "HonorLuggage.Domain\HonorLuggage.Domain.Services\HonorLuggage.Domain.Services.csproj", "{DD6E94D6-B1DE-440A-985D-02E871F13DE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorsLuggage.Domain.Services", "HonorLuggage.Domain\HonorLuggage.Domain.Services\HonorsLuggage.Domain.Services.csproj", "{DD6E94D6-B1DE-440A-985D-02E871F13DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HonorLuggage.Domain.Core.Tests", "HonorLuggage.Tests\HonorLuggage.Domain.Core.Tests\HonorLuggage.Domain.Core.Tests.csproj", "{93F62E82-14BA-4599-9BFF-7BCA9898C558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonorsLuggage.Domain.Core.Tests", "HonorLuggage.Tests\HonorLuggage.Domain.Core.Tests\HonorsLuggage.Domain.Core.Tests.csproj", "{93F62E82-14BA-4599-9BFF-7BCA9898C558}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

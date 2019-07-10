@@ -1,6 +1,6 @@
-﻿using HonorLuggage.Domain.Core;
+﻿using HonorsLuggage.Domain.Core;
 
-namespace HonorLuggage.Domain.Services.Repositories
+namespace HonorsLuggage.Domain.Services.Repositories
 {
     public interface IRepository<T> where T : Entity
     {

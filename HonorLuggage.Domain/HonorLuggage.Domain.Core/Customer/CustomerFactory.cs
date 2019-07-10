@@ -1,4 +1,4 @@
-﻿namespace HonorLuggage.Domain.Core.Customer
+﻿namespace HonorsLuggage.Domain.Core.Customer
 {
     public class CustomerFactory
     {
